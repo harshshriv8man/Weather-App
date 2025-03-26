@@ -1,0 +1,9 @@
+react
+react-dom
+react-router-dom
+tailwindcss
+vite
+shadcnui
+lucide-react
+tanstack-query
+sonner
