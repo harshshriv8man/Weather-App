@@ -19,7 +19,7 @@ const YouTubeVideoCard = ({ locationName }: YouTubeVideoCardProps) => {
   };
 
   // Use the video ID for the city or default to a fallback
-  const videoId = videoIds[locationName] || "dQw4w9WgXcQ"; // Default to a known video if not found
+  const videoId = videoIds[locationName]// Default to a known video if not found
 
   return (
     <div className="card">
